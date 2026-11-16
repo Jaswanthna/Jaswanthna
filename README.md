@@ -21,58 +21,6 @@ I enjoy understanding how things work under the hood, experimenting with new tec
 
 ⸻
 
-🧰 Tech Stack
-
-Languages & Backend
-
-* Python
-* FastAPI
-* REST APIs
-* SQL
-
-Cloud & Infrastructure
-
-* AWS Lambda
-* API Gateway
-* DynamoDB
-* S3
-* SQS
-* EventBridge
-* Aurora PostgreSQL
-* AWS X-Ray
-* AWS Secrets Manager
-
-AI & Emerging Technologies
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases
-* AI Agents
-* MCP
-* Prompt Engineering
-* AI Workflows & Automation
-
-Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* GitHub Actions
-* Linux
-
-⸻
-
-🌱 Currently Learning
-
-* Building production-ready AI applications.
-* RAG architecture and retrieval optimization.
-* Agentic workflows and tool calling.
-* Model evaluation, guardrails, and observability.
-* Deploying and scaling AI solutions on AWS.
-* Designing reliable AI systems for real-world users.
-
-⸻
-
 💡 My Philosophy
 
 Don’t just learn technologies. Build things with them. Understand how they work. Ship them. Improve them.
